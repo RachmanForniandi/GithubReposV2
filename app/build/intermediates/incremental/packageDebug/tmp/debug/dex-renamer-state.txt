@@ -1,4 +1,4 @@
-#Thu Apr 02 14:20:45 EEST 2020
-base.0=/Users/devtides/AndroidStudioProjects/Retrofit/test/GithubRepos/app/build/intermediates/dex/debug/out/classes.dex
+#Mon Feb 27 20:32:40 ICT 2023
+base.0=C\:\\Users\\USER\\StudioProjects\\GithubRepos\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
