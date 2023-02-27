@@ -405,9 +405,9 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">GitHubRepos</string>
-    <string name="callbackUrl"/>
-    <string name="clientId"/>
-    <string name="clientSecret"/>
+    <string name="callbackUrl">https://github.com/RachmanForniandi/GithubReposV2</string>
+    <string name="clientId">09b0bef4b3601c2ba571</string>
+    <string name="clientSecret">62c9c0f3492247626dc723ffac61f822f18abb43</string>
     <string name="oauthUrl">https://github.com/login/oauth/authorize</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
